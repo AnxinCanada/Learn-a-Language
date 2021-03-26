@@ -1,6 +1,10 @@
-User-agent: Googlebot
+User-agent: *
 Disallow:
 User-agent: AdsBot-Google
 Disallow:
 User-agent: Googlebot-Image
 Disallow:
+
+Sitemap: https://www.learnalanguage.tk/sitemap.txt
+
+Sitemap: https://learnalanguage.tk/sitemap.txt
