@@ -1,99 +1,99 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9">
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 
 <url>
   <loc>https://learnalanguage.tk/</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/elements.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/portfolio-contained.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/portfolio-fullwidth.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/project-wide-gallery.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/project-slides.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/project-gallery.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/project-video.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/project-wide-slides.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/project-wide-video.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/blog-standard.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/blog-list.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/blog-grid.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/blog-post-standard.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/blog-post-gallery.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/blog-post-video.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/blog-post-fullwidth.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://learnalanguage.tk/index.html</loc>
-  <lastmod>2021-03-27T00:42:22+00:00</lastmod>
+  <lastmod>2021-03-27T14:40:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
