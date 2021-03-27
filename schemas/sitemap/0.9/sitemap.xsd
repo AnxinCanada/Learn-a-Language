@@ -1,4 +1,4 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" targetNamespace="http://www.sitemaps.org/schemas/sitemap/0.9" elementFormDefault="qualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://learnalanguage.tk/schemas/sitemap/0.9/" targetNamespace="http://learnalanguage.tk/schemas/sitemap/0.9/" elementFormDefault="qualified">
 <link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
 <link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
 <style lang="en" type="text/css" id="dark-mode-custom-style"/>
